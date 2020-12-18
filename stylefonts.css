@@ -1,0 +1,59 @@
+@font-face {
+	font-family: "OpenSans-Bold";
+	src: url("fonts/OpenSans-Bold.woff"),
+    url("fonts/OpenSans-Bold.ttf"),
+    url("fonts/OpenSans-Bold.eot");
+}
+
+@font-face {
+	font-family: "OpenSans-Regular";
+	src: url("fonts/OpenSans-Regular.woff"),
+    url("fonts/OpenSans-Regular.ttf"),
+    url("fonts/OpenSans-Regular.eot");
+}
+
+
+
+
+
+/*Header*/
+
+.logo__title {
+    font: 53px/24px "OpenSans-Bold", sans-serif;
+    color: #363636;
+}
+.logo__subtitle {
+    font: 23px/24px "OpenSans-Regular", sans-serif;
+    color: #503737;
+}
+.user__user-name {
+    font: 13px/19px "OpenSans-Regular", sans-serif;
+    color: #acaaaa;  
+}
+.user__user-name:hover {
+    color: #717171;
+}
+.sub-menu__link {
+    font: bold 26px/27px "OpenSans-Regular", sans-serif;
+    color: #bbbbbb;
+    text-decoration: none;
+}
+
+.search__row {
+    font: 20px/19px "OpenSans-Regular", sans-serif;
+    color: #acaaaa;
+}
+
+
+
+
+/*Основной контент*/
+
+.card__title {
+    font: 26px/27px "OpenSans-Regular", sans-serif;
+    color: #717171;
+}
+.card__text {
+    font: 13px/19px "OpenSans-Regular", sans-serif;
+    color: #acaaaa;
+}
