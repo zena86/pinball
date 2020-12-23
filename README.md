@@ -1,4 +1,4 @@
-<h1 align="center">Pinball"</h1>
+<h1 align="center">Сайт "Pinball"</h1>
 
 DEMO [Pinball](https://zena86.github.io/pinball/)
 
