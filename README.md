@@ -7,11 +7,6 @@ DEMO [Pinball](https://zena86.github.io/pinball/)
 HTML5    |jQuery      |Brackets       |БЭМ         |CSS flexbox
 CSS3     |Masonry     |Adobe Photoshop|            |
 
-Бургер-меню
-Звездный рейтинг
-Ленивая загрузка
-Масонри
-
 
 Адаптивность реализована за счет:
 * медиазапросов
