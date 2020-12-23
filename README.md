@@ -34,7 +34,7 @@ CSS3     |Masonry     |Adobe Photoshop|            |
 ![Screenshort 1](/images/imgreadme/screen1024.png)    |![Screenshort 1](/images/imgreadme/screen768.png) 
 ------------------------------------------------------|------------------------------------------------------
 ![Screenshort 1](/images/imgreadme/screen-mobile1.png)|![Screenshort 1](/images/imgreadme/screen-mobile2.png)
-------------------------------------------------------|------------------------------------------------------
+
 
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
