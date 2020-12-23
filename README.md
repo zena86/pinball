@@ -31,9 +31,9 @@ CSS3     |Masonry     |Adobe Photoshop|            |
 
 **3. Адаптация до 320px, бургер-меню**
 
-![Screenshort 1](/images/imgreadme/screen1024.png)    |![Screenshort 1](/images/imgreadme/screen768.png) 
+![Screenshort 1](/images/imgreadme/screen1024.png)    |![Screenshort 1](/images/imgreadme/screen-mobile1.png)
 ------------------------------------------------------|------------------------------------------------------
-![Screenshort 1](/images/imgreadme/screen-mobile1.png)|![Screenshort 1](/images/imgreadme/screen-mobile2.png)
+![Screenshort 1](/images/imgreadme/screen768.png)     |![Screenshort 1](/images/imgreadme/screen-mobile2.png)
 
 
 
