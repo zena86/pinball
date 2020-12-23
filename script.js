@@ -549,10 +549,10 @@ $(document).ready(function() {
 function fillRaiting(cardId, ratingValue){
     let card = $("#" + cardId);
     let starsArray = $(".red-star", card);
-    starsArray[0].setAttribute("width", 100*(ratingValue/25)+"%");
-    starsArray[1].setAttribute("width", 100*((ratingValue-25)/25)+"%");
-    starsArray[2].setAttribute("width", 100*((ratingValue-50)/25)+"%");
-    starsArray[3].setAttribute("width", 100*((ratingValue-75)/25)+"%");
+    starsArray[0].setAttribute("width", Math.max(0, 100*(ratingValue/25))+"%");
+    starsArray[1].setAttribute("width", Math.max(0, 100*((ratingValue-25)/25))+"%");
+    starsArray[2].setAttribute("width", Math.max(0, 100*((ratingValue-50)/25))+"%");
+    starsArray[3].setAttribute("width", Math.max(0, 100*((ratingValue-75)/25))+"%");
 }
 
 function getCardHtml(cardObject){
