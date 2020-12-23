@@ -530,7 +530,7 @@ $(document).ready(function() {
    }
 });
     
-    //    Масонри
+//    Масонри
     
     $('#masonry-grid').masonry({
         itemSelector: '.grid-item',
@@ -539,9 +539,7 @@ $(document).ready(function() {
     });
     
     loadNextPage(10);  
-    
-    
-   
+  
 });
 
 //Звездный рейтинг
@@ -593,9 +591,6 @@ for (var i=0; i<4; i++) {
     cardHtml+="</div>";
 }  
     
-   
-    
-    
     cardHtml+="</div> ";
     cardHtml+="</div>";
     cardHtml+="<div class='socials-container'>";
@@ -624,7 +619,6 @@ for (var i=0; i<4; i++) {
     
     return cardHtml;
 }
-
 
 function loadNextPage(pageSize) {
     let pageContent = "";

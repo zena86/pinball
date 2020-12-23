@@ -41,8 +41,6 @@ body  {
 
 .logo {
     display: flex;
-  
-/*    background-color: red;*/
 }
 .logo__img {
     transform: scale(1.2);
@@ -53,7 +51,6 @@ body  {
     justify-content: space-between;
     padding: 0 0 0 7px;
 }
-
 .icon-container {
     background-color: #f6f6f6;
     display: flex;
@@ -173,7 +170,6 @@ body  {
     top: -38px; 
 }
 
-
 /*Форма поиска*/
 
 .search__icon {
@@ -252,28 +248,22 @@ body  {
     text-decoration: none;
 }
 
-
 /*Основной контент*/
 
 .main {
     background-color: #f6f6f6;
-/*    overflow: hidden;*/
     padding-top: 100px;
-    
 }
-
-
 .container {
     max-width: 1200px;
     margin: 0 auto;
     padding: 50px 0 0 0%;
- 
 }
 
 /*Карточка*/
 
 .persent-size {
-width: 25%;
+	width: 25%;
 }
 .card {
     display: flex;
@@ -283,7 +273,6 @@ width: 25%;
     box-shadow: 0 0 4px rgba(0,0,0,0.12);
     background-color: white;
     margin: 3%;
-    
 }
 .card__container {
    padding: 15px 20px;
@@ -385,7 +374,6 @@ width: 25%;
     fill: #acaaaa;
 }
 
-
 /*Медиазапросы*/
 
 @media (max-width: 1280px) {
@@ -393,7 +381,6 @@ width: 25%;
     width: 33.33333%;
 }   
 }
-
 
 @media (max-width: 900px) {
 .user {
@@ -409,7 +396,6 @@ width: 25%;
     width: 50%;
 } 
 }
-
 
 @media (max-width: 630px) {
 
@@ -441,7 +427,6 @@ width: 25%;
     height: 100%;
     padding-top: 220px;
     overflow: auto;
-/*      transition: all 5s ease 0s;*/
     background-color: white;
 }
 .sub-menu.active {
@@ -554,9 +539,7 @@ body.lock {
 .search__row.active,
 .search__btn.active {
     top: 30px;
-}
-  
-   
+} 
 }
 
 
