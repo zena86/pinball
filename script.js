@@ -529,7 +529,6 @@ $(document).ready(function() {
        loadNextPage(5);
    }
 });
-//    fillRaiting("card_0", 95);
     
     //    Масонри
     
