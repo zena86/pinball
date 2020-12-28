@@ -2,11 +2,11 @@
 
 DEMO [Pinball](https://zena86.github.io/pinball/)
 
-Языки    | Библиотеки | Инструменты   |Методология |Прочие
----------|------------|---------------|------------|-----------
-HTML5    |jQuery      |Brackets       |БЭМ         |CSS flexbox
-CSS3     |Masonry     |Adobe Photoshop|            |
-
+Языки     | Библиотеки | Инструменты   |Методология |Прочие
+----------|------------|---------------|------------|-----------
+HTML5     |jQuery      |Brackets       |БЭМ         |CSS flexbox
+CSS3      |Masonry     |Adobe Photoshop|            |
+JavaScript|            |               |            |
 
 Адаптивность реализована за счет:
 * медиазапросов
